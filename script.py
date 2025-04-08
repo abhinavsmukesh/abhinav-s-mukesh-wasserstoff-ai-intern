@@ -16,8 +16,8 @@ driver = webdriver.Chrome(options=options)
 
 # Log in to LinkedIn
 driver.get("https://linkedin.com/uas/login")
-USERNAME = "g88per@gmail.com"
-PASSWORD = "Abnv321#"
+USERNAME = "typehere"
+PASSWORD = "typehere"
 username_field = driver.find_element(By.ID, "username")
 username_field.send_keys(USERNAME)
 password_field = driver.find_element(By.ID, "password")
