@@ -26,8 +26,8 @@ This script is a Python-based LinkedIn profile scraper that uses Selenium WebDri
     Replace the `USERNAME` and `PASSWORD` variables in the script with your LinkedIn login credentials.
 
     ```python
-    USERNAME = "your-email@example.com"
-    PASSWORD = "your-password"
+    USERNAME = "typehere"
+    PASSWORD = "typehear"
     ```
 
 2. **Run the script:**
@@ -35,7 +35,8 @@ This script is a Python-based LinkedIn profile scraper that uses Selenium WebDri
     Execute the script using Python.
 
     ```bash
-    python linkedin_scraper.py
+    python script.py
+
     ```
 
     The script will:
