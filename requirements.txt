@@ -1,0 +1,13 @@
+Python 
+
+Selenium
+
+ChromeDriver
+
+Google Chrome (latest version)
+
+Chrome WebDriver (matching version with the installed Chrome browser)
+
+JSON
+
+WebDriverWait (from Selenium)
